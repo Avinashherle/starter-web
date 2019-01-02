@@ -13,6 +13,14 @@ This is the deployment
 ##Usage
 This is how you use GIT
 
+##Performance
+This is to illusttrater hiow Git works
+
+
+## Planning
+to write my story in GIT
+
+
 
 There is a myth called myth :P
 
