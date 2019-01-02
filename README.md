@@ -20,7 +20,9 @@ This is to illusttrater hiow Git works
 ## Planning
 to write my story in GIT
 
+### Copywrite
 
+2019 Git training
 
 There is a myth called myth :P
 
