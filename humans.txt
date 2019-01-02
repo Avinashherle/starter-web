@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Avinash Hele avinashherle@gmail.com @HerleAvinash
 
 # THANKS
 
