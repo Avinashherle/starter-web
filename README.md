@@ -17,6 +17,10 @@ This is how you use GIT
 This is to illusttrater hiow Git works
 
 
+##How to contribute 
+
+Please forlk the git repository and then issue a pull request. please review the changes
+
 ## Planning
 to write my story in GIT
 
