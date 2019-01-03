@@ -27,7 +27,8 @@ to write my story in GIT
 
 ### Copywrite
 
-2019 Git training
+2019 Git training. All rights reserved
+
 
 There is a myth called myth :P
 
